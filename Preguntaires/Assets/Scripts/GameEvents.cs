@@ -19,4 +19,5 @@ public class GameEvents : ScriptableObject
     public ScoreUpdatedCallback ScoreUpdated;
 
     public int CurrentFinalScore;
+    public int SturtupHighscore;
 }

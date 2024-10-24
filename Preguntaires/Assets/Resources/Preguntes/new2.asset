@@ -13,6 +13,14 @@ MonoBehaviour:
   m_Name: new2
   m_EditorClassIdentifier: 
   _info: Choose what is true
-  _answers: []
-  _type: 0
+  _answers:
+  - _info: Inazuma Eleven para 2024
+    _isCorrect: 0
+  - _info: Inazuma Eleven para 2025
+    _isCorrect: 1
+  - _info: Inazuma Eleven para 2023
+    _isCorrect: 0
+  - _info: Inazuma Eleven para 2022
+    _isCorrect: 0
+  _type: 1
   score: 0

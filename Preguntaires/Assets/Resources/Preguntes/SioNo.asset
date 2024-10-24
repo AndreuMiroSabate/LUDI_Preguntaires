@@ -13,6 +13,14 @@ MonoBehaviour:
   m_Name: SioNo
   m_EditorClassIdentifier: 
   _info: Si o no
-  _answers: []
-  _type: 0
+  _answers:
+  - _info: si pero no
+    _isCorrect: 0
+  - _info: ' si muy si'
+    _isCorrect: 0
+  - _info: rotundamente no
+    _isCorrect: 0
+  - _info: no
+    _isCorrect: 1
+  _type: 1
   score: 0
