@@ -1,0 +1,1085 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http//www.w3.org/2001/XMLSchema" xmlns:xsi="http//www.w3.org/2001/XMLSchema">
+	<Questions>
+		<Question>
+			<Info>Quin va ser el principal motiu de la creació del Consell Generau d’Aran al segle XIII?</Info>
+			<Answers>
+				<Answer>
+				    <Info>La protecció de les rutes comercials</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>La gestió dels recursos naturals</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>La defensa davant invasores</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>La governança pròpia de la Vall d'Aran</Info>
+				    <IsCorrect>true</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Quin tractat va otorgar privilegis a la Vall d'Aran el 1313?</Info>
+			<Answers>
+				<Answer>
+				    <Info>Tractat de Corbeil</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>Querimònia d'Aran</Info>
+				    <IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>Tractat dels Pirineus</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>Conveni de Lleida</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Durant quina guerra la Vall d'Aran va ser invadida per forces antifranquistes?</Info>
+			<Answers>
+				<Answer>
+				    <Info>Guerra de Successió Espanyola</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>Guerra d'Independència</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>Guerra Civil Espanyola</Info>
+				    <IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+				    <Info>Primera Guerra Mundial</Info>
+				    <IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+            <Info>Quin és l'idioma cooficial, juntament amb el català i el castellà, a la Vall d'Aran?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Occità</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Francès</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Euskera</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Provençal</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <Timer>30</Timer>
+            <Type>Language</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>L'aranès, llengua parlada a la Vall d'Aran, pertany a la branca de les llengües...</Info>
+			<Answers>
+				<Answer>
+					<Info>Iberes</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Germàniques</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Romàniques</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Eslaves</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Language</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Com s'anomena la grafia utilitzada per escriure en aranès?</Info>
+			<Answers>
+				<Answer>
+					<Info>Grafia catalana</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Grafia occitana</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Grafia francesa</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Grafia llemosina</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+            <Type>Language</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Quin estil artístic predomina a les esglésies del Pirineu català?</Info>
+			<Answers>
+				<Answer>
+					<Info>Gòtic</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Barroc</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Romànic</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Renaixentista</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+            <Type>Art</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Quina d'aquestes esglésies forma part del Patrimoni Mundial de la UNESCO?</Info>
+			<Answers>
+				<Answer>
+					<Info>Sant Climent de Taüll</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Santa Maria del Mar</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Sant Pere de Rodes</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Santa Maria de Montserrat</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+            <Type>Art</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Qui és l'autor de la novel·la "Jo, el desconegut", ambientada al Pirineu català?</Info>
+			<Answers>
+				<Answer>
+					<Info>Quim Monzó</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Albert Villaró</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Josep Pla</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Mercè Rodoreda</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+            <Type>Art</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Quin és el ball tradicional de la Vall d'Aran?</Info>
+			<Answers>
+				<Answer>
+					<Info>Sardana</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Ball de bastons</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Polka</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Era dança</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+            <Type>Folklore</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Quin instrument musical és típic del folklore del Pirineu català?</Info>
+			<Answers>
+				<Answer>
+					<Info>Gaita</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Tamborí</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Acordió diatònic</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Clarinet</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+            <Type>Folklore</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Quina festa es celebra a les zones dels Pirineus durant el juny i el juliol?</Info>
+			<Answers>
+				<Answer>
+					<Info>Diada de Raiers</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Festes de la Mare de Déu del Tura</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>La Fia-faia</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Baixada de falles</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+            <Type>Folklore</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>En quina sèrie de televisió espanyola apareix la Vall d'Aran com a lloc clau de la trama?</Info>
+			<Answers>
+				<Answer>
+					<Info>El Ministerio del Tiempo</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Merlí</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>La casa de papel</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Polseres vermelles</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+            <Type>Entertainment</Type>
+			<Zone>Aran</Zone>			
+		</Question>
+		<Question>
+			<Info>Els Pirineus són l’escenari ideal per a la pràctica de quin tipus d’esports?</Info>
+			<Answers>
+				<Answer>
+					<Info>Esports de pilota</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Esports de força</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Esports d’aventura</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Esports de tir</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Entertainment</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Quin esport extrem d’aire és comú als cims de l'Alt Pirineu?</Info>
+			<Answers>
+				<Answer>
+					<Info>Parapent</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Vol sense motor</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Paramotor</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Salt amb corda elàstica</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Entertainment</Type>
+			<Zone>Aran</Zone>
+		</Question>
+		<Question>
+			<Info>Quin any es va produir la caiguda de Barcelona durant la Guerra de Successió Espanyola?</Info>
+			<Answers>
+				<Answer>
+					<Info>1789</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>1492</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>1714</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>1808</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Què va ser la Generalitat de Catalunya en el seu origen medieval?</Info>
+			<Answers>
+				<Answer>
+					<Info>Un exèrcit militar</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Un organisme fiscal para recaptar impostos</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Una ordre religiosa</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Una universitat</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Qui va ser el líder català que va proclamar la República Catalana el 1931?</Info>
+			<Answers>
+				<Answer>
+					<Info>Lluís Companys</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Francesc Macià</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Antoni Gaudí</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Salvador Dalí</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quina d’aquestes vocals només s’accentua amb accent tancat?</Info>
+			<Answers>
+				<Answer>
+					<Info>a</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>o</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>e</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>i</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Language</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>En quin país no es parla català?</Info>
+			<Answers>
+				<Answer>
+					<Info>França</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Itàlia</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Andorra</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Portugal</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Language</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>A quina comunitat autònoma no es parla català?</Info>
+			<Answers>
+				<Answer>
+					<Info>Navarra</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Aragó</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Murcia</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Illes Balears</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Language</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin famós arquitecte va dissenyar la Sagrada Família a Barcelona?</Info>
+			<Answers>
+				<Answer>
+					<Info>Lluís Domènech i Montaner</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Antoni Gaudí</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Josep Puig i Cadafalch</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Santiago Calatrava</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Art</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin escriptor barceloní és conegut per la seva novel·la "La sombra del viento"?</Info>
+			<Answers>
+				<Answer>
+					<Info>Carlos Ruiz Zafón</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Jaume Cabré</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Mercè Rodoreda</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Manuel Vázquez Montalbán</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Art</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin parc famós de Barcelona va ser dissenyat per Antoni Gaudí?</Info>
+			<Answers>
+				<Answer>
+					<Info>Parc de la Ciutadella</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Parc de Montjuïc</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Parc Güell</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Parc Central</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Art</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Què són els castellers?</Info>
+			<Answers>
+				<Answer>
+					<Info>Castells medievals</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Cors tradicionals</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Torres humanes</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Balls típics</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Folklore</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin ball tradicional català es balla en cercles i simbolitza la unitat?</Info>
+			<Answers>
+				<Answer>
+					<Info>Jota</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Sardana</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Sevillanas</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Flamenco</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Folklore</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quina llegenda catalana explica la història d'un drac del qual van sortir roses de la seva sang?</Info>
+			<Answers>
+				<Answer>
+					<Info>El drac de Sitges</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>La bèstia del Montseny</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Sant Jordi</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>El gegant del Garraf</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Folklore</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin any es va fundar l'equip de futbol FC Barcelona?</Info>
+			<Answers>
+				<Answer>
+					<Info>1898</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>1889</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>1899</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>1888</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Entertainment</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quina sèrie catalana va ser un gran èxit i està ambientada en un institut de Barcelona?</Info>
+			<Answers>
+				<Answer>
+					<Info>El Internado</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Merlí</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Las chicas del cable</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>El Ministerio del Tiempo</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Entertainment</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin director de cinema català és conegut per la pel·lícula "La sociedad de la nieve"?</Info>
+			<Answers>
+				<Answer>
+					<Info>Pedro Almodóvar</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Isabel Coixet</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Juan Antonio Bayona</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Jaume Balagueró</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Entertainment</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quina civilització antiga va fundar la actual ciutat de Tarragona al segle III a.C.?</Info>
+			<Answers>
+				<Answer>
+					<Info>Grecs</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Romans</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Egipcis</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Mesopotàmics</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>Tarragona</Zone>
+		</Question>
+		<Question>
+			<Info>Quina ordre religiosa va tenir gran influència en la repoblació de la zona després de la Reconquesta a Catalunya?</Info>
+			<Answers>
+				<Answer>
+					<Info>Els dominics</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Els templers</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Els franciscans</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Els cartoixans</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>General</Zone>
+		</Question>
+		<Question>
+			<Info>En quin segle es va consolidar la regió del Penedès com a zona productora de vi?</Info>
+			<Answers>
+				<Answer>
+					<Info>Segle XX</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Segle XV</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Segle XVIII</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Segle XIX</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>History</Type>
+			<Zone>Barcelona</Zone>
+		</Question>
+		<Question>
+			<Info>Quina expressió catalana gironina s’utilitza per dir "anar ràpid"?</Info>
+			<Answers>
+				<Answer>
+					<Info>Anar a corre-cuita</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Anar a tota vela</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Anar amb presses</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Anar de puntetes</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Language</Type>
+			<Zone>Girona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin caràcter no es fa servir en català?</Info>
+			<Answers>
+				<Answer>
+					<Info>ç</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>l·l</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>ï</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>á</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Language</Type>
+			<Zone>General</Zone>
+		</Question>
+		<Question>
+			<Info>Quina característica gramatical es tipica del català parlat a Lleida?</Info>
+			<Answers>
+				<Answer>
+					<Info>L’ús del pronom “vos”</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>L’ús de l’article “lo”</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>L’omisió de preposicions</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>L’ús de l’article “sa”</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Language</Type>
+			<Zone>Lleida</Zone>
+		</Question>
+		<Question>
+			<Info>Qui és el famós pintor surrealista nascut a Figueres, Girona?</Info>
+			<Answers>
+				<Answer>
+					<Info>Pablo Picasso</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Joan Miró</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Salvador Dalí</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Antoni Tàpies</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Art</Type>
+			<Zone>Girona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin estil arquitectònic predomina a la Catedral de Tortosa, situada a Terres de l'Ebre?</Info>
+			<Answers>
+				<Answer>
+					<Info>Barroc</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Romànic</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Gòtic</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Neoclàssic</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Art</Type>
+			<Zone>Ebre</Zone>
+		</Question>
+		<Question>
+			<Info>A quina cova de Lleida es va trobar el primer conjunt de pintures prehistòriques documentades científicament a Catalunya?</Info>
+			<Answers>
+				<Answer>
+					<Info>Cova d'Altamira</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Cova San Corb</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Covetes dels Moros</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Cova del Cogul</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Art</Type>
+			<Zone>Lleida</Zone>
+		</Question>
+		<Question>
+			<Info>Quin nom té la festa major de Tarragona, on participen gegants i capgrossos?</Info>
+			<Answers>
+				<Answer>
+					<Info>La Mercè</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Santa Tecla</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Santa Cristina</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Sant Bartomeu</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Folklore</Type>
+			<Zone>Tarragona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin instrument tradicional s’utilitza a les Sardanes?</Info>
+			<Answers>
+				<Answer>
+					<Info>La guitarra</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>El tambor</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>La flauta travesera</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>La tenora</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Folklore</Type>
+			<Zone>General</Zone>
+		</Question>
+		<Question>
+			<Info>Quina festivitat té lloc a la ciutat de Berga i està considerada Patrimoni Cultural Immaterial de la Humanitat per la UNESCO?</Info>
+			<Answers>
+				<Answer>
+					<Info>Els Castellers</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>La Patum</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>La Castanyada</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>El Correfoc</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Folklore</Type>
+			<Zone>Central</Zone>
+		</Question>
+		<Question>
+			<Info>Quina sèrie de televisió internacional va utilitzar el casc antic de Girona per filmar part de les seves escenes?</Info>
+			<Answers>
+				<Answer>
+					<Info>The Crown</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Vikings</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Game of Thrones</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>El Senyor dels Anells: Els anells del poder</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Entertainment</Type>
+			<Zone>Girona</Zone>
+		</Question>
+		<Question>
+			<Info>Quin esport està vinculat a la tradició marinera de la regió de Terres de l'Ebre?</Info>
+			<Answers>
+				<Answer>
+					<Info>Vela</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Pesca esportiva</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Rem</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Surf</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Entertainment</Type>
+			<Zone>Ebre</Zone>
+		</Question>
+		<Question>
+			<Info>Quina pel·lícula catalana va guanyar 9 premis Goya al 2011?</Info>
+			<Answers>
+				<Answer>
+					<Info>Petit indi</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Pa negre</Info>
+					<IsCorrect>true</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>Tres dies amb la familia</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+				<Answer>
+					<Info>La mosquitera</Info>
+					<IsCorrect>false</IsCorrect>
+				</Answer>
+			</Answers>
+			<Timer>30</Timer>
+			<Type>Entertainment</Type>
+			<Zone>General</Zone>
+		</Question>
+	</Questions>
+</Data>
