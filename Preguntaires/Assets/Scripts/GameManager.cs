@@ -26,6 +26,15 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    private void OnEnable()
+    {
+        _events.UpdateQuestionAnswer += UpdateRespostes;
+    }
+    private void OnDisable() 
+    {
+        _events.UpdateQuestionAnswer -= UpdateRespostes;
+    }
+
     void Start()
     {
         LoadPreguntes();
@@ -87,7 +96,7 @@ public class GameManager : MonoBehaviour
 
         if( IE_WaitTillNextRound != null )
         {
-            StopCoroutine( IE_WaitTillNextRound );
+            StopCoroutine(IE_WaitTillNextRound );
         }
         IE_WaitTillNextRound = WaitTillNextRound();
         StartCoroutine(IE_WaitTillNextRound);
@@ -147,7 +156,7 @@ public class GameManager : MonoBehaviour
             var compareCR = correctRespostes.Except(pickedRespostes).ToList();
             var comparePR = pickedRespostes.Except(correctRespostes).ToList();
 
-            return !compareCR.Any() && comparePR.Any();
+            return !compareCR.Any() && !comparePR.Any();
         }
         return false;
 
