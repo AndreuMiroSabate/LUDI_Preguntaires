@@ -29,7 +29,7 @@ public class Pregunta : ScriptableObject
     [SerializeField] private AnswerType _type = AnswerType.Three;
     public AnswerType GetAnswerType { get { return _type; } }
 
-    [SerializeField] private int score = 0;
+    [SerializeField] private int score = 10;
     public int Score { get { return score; } }
 
     public List<int> GetCorrectAnswers()

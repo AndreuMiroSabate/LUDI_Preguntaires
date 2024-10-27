@@ -111,7 +111,7 @@ public class GameManager : MonoBehaviour
     Pregunta GetPreguntaRandom()
     {
         var randomIndex = GetRandomPreguntaIndex();
-        preguntaActual += randomIndex;
+        preguntaActual = randomIndex;
 
         return Preguntas[preguntaActual];
     }

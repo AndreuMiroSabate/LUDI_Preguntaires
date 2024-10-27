@@ -120,8 +120,9 @@ public class UI_Manager : MonoBehaviour
 
     IEnumerator DisplayTimeRes()
     {
-        yield return new WaitForSeconds(GameUtility.ResolutionDelayTime);
         uIElements.ResolutionSAnimator.SetInteger(resolutionState, 1);
+        yield return new WaitForSeconds(GameUtility.ResolutionDelayTime);
+        uIElements.ResolutionSAnimator.SetInteger(resolutionState, 0);
         uIElements.MainCanvas.blocksRaycasts = true;
     }
 
